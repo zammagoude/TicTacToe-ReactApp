@@ -5,7 +5,7 @@ I created this web game as the third coursework for IE992 course, University of 
 
 ## How to play
 
-- click on any nine tiles to start playing.
+- Press any nine tiles to start playing.
 - Press **>start a new game** anytime to play a new game.
 
 Here's a GIF from the game environment:
