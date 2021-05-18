@@ -1,7 +1,7 @@
 
 # Tic Tac Toe React App
 
-I created this web game as the third course project for IE992 course, University of Guilan.
+I created this web game as the third coursework for IE992 course, University of Guilan.
 
 ## How to play
 
